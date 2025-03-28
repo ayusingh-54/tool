@@ -1,0 +1,20 @@
+
+/* .navDiv{
+    padding-right: 0 !important;
+} */
+.adminTypography{
+    font-size: 1rem !important;
+    cursor: pointer !important;
+}
+
+.spanHover{
+    margin-left: 1rem;
+}
+.spanHover:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.logo{
+    width: 55px;
+}
